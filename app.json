@@ -1,0 +1,5 @@
+{
+ "expo": {
+  "name":"Murder at Midnight Manor", "slug":"murder-at-midnight-manor", "scheme":"midnightmanor", "version":"1.0.0", "orientation":"portrait", "userInterfaceStyle":"dark", "ios":{"supportsTablet":true,"bundleIdentifier":"com.midnightmanor.mystery"}, "android":{"package":"com.midnightmanor.mystery"}, "extra":{"eas":{"projectId":null}}
+ }
+}
